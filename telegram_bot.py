@@ -23,7 +23,7 @@ def process_message(update, context):
 
 def main():
     # Enter your Telegram bot token here
-    token = 'YOUR_TELEGRAM_BOT_TOKEN'
+    token = '6289400535:AAHg3UrXFlhQltk5cw8Qi9YvD8l-x_p6dIM'
     updater = Updater(token=token, use_context=True)
     dispatcher = updater.dispatcher
     
